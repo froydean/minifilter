@@ -1,0 +1,22 @@
+﻿  Building 'ownMinifilter' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping x64\Release\ownMinifilter.inf [Version] section with DriverVer=01/18/2024,17.46.3.568
+  ownMinifilter.c
+  ownMinifilter.vcxproj -> C:\Users\d_vm\Documents\Visual Studio 2015\Projects\own_mini_forgit\ownMinifilter\x64\Release\ownMinifilter.sys
+  ownMinifilter.vcxproj -> C:\Users\d_vm\Documents\Visual Studio 2015\Projects\own_mini_forgit\ownMinifilter\x64\Release\ownMinifilter.pdb (Full PDB)
+  Done Adding Additional Store
+  Successfully signed: C:\Users\d_vm\Documents\Visual Studio 2015\Projects\own_mini_forgit\ownMinifilter\x64\Release\ownMinifilter.sys
+  
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\d_vm\Documents\Visual Studio 2015\Projects\own_mini_forgit\ownMinifilter\x64\Release\ownMinifilter\ownminifilter.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\d_vm\Documents\Visual Studio 2015\Projects\own_mini_forgit\ownMinifilter\x64\Release\ownMinifilter\ownminifilter.cat
+  

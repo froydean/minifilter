@@ -1,0 +1,7 @@
+test2 can be rw by ADMIN
+w by user1 allowed r - denied
+r by user2 allowed w - denied
+
+test1 can be rw by ADMIN
+r by user1 allowed w - denied
+w by user2 allowed r - denied

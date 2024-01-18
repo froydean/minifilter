@@ -1,0 +1,4 @@
+1111o can be rw by ADMIN
+w by user1
+r by user2
+rest of this rights - denied

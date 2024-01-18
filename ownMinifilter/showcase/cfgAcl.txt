@@ -1,0 +1,6 @@
+test1.txt admin rw
+test1.txt user1 r
+test1.txt user2 w
+test2.txt admin rw
+test2.txt user1 w
+test2.txt user2 r

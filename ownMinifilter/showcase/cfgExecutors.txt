@@ -1,0 +1,3 @@
+rw_simple.exe admin
+rw_simple1.exe user1
+rw_simple2.exe user2
